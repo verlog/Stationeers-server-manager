@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<iniSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <X_pos>52</X_pos>
+  <Y_pos>52</Y_pos>
+  <SrvPath>C:\</SrvPath>
+  <RCONPass>1234</RCONPass>
+  <batchmode>false</batchmode>
+  <nographics>true</nographics>
+  <autostart>true</autostart>
+  <autosaveinterval>300</autosaveinterval>
+  <clearallinterval>300</clearallinterval>
+  <creator>0</creator>
+  <worldname />
+  <worldtype>Mars</worldtype>
+  <loadworld>false</loadworld>
+  <gameport>27500</gameport>
+  <updateport>27015</updateport>
+  <servername>stationeers</servername>
+  <basedirectory>C:\</basedirectory>
+</iniSettings>
